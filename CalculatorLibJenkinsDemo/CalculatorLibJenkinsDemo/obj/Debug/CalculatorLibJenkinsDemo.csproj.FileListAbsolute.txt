@@ -1,0 +1,6 @@
+C:\Users\RAJESHWARI.R\source\repos\CalculatorLibJenkinsDemo\CalculatorLibJenkinsDemo\bin\Debug\CalculatorLibJenkinsDemo.dll
+C:\Users\RAJESHWARI.R\source\repos\CalculatorLibJenkinsDemo\CalculatorLibJenkinsDemo\bin\Debug\CalculatorLibJenkinsDemo.pdb
+C:\Users\RAJESHWARI.R\source\repos\CalculatorLibJenkinsDemo\CalculatorLibJenkinsDemo\obj\Debug\CalculatorLibJenkinsDemo.csproj.AssemblyReference.cache
+C:\Users\RAJESHWARI.R\source\repos\CalculatorLibJenkinsDemo\CalculatorLibJenkinsDemo\obj\Debug\CalculatorLibJenkinsDemo.csproj.CoreCompileInputs.cache
+C:\Users\RAJESHWARI.R\source\repos\CalculatorLibJenkinsDemo\CalculatorLibJenkinsDemo\obj\Debug\CalculatorLibJenkinsDemo.dll
+C:\Users\RAJESHWARI.R\source\repos\CalculatorLibJenkinsDemo\CalculatorLibJenkinsDemo\obj\Debug\CalculatorLibJenkinsDemo.pdb
